@@ -3,9 +3,9 @@ theme:
   default: auto # 主题默认模式 <[style-light,style-dark,auto]>
 
 favicon:
-  logo: /img/favicon.svg # logo | 顶部 logo
-  icon16: /img/favicon.svg # icon 16*16
-  icon32: /img/favicon.svg # icon 32*32
+  logo: /img/shi_tou_xiang.jpg # logo | 顶部 logo
+  icon16: /img/bei_jing.svg # icon 16*16
+  icon32: /img/bei_jing.svg # icon 32*32
   apple_touch_icon: # Apple touch icon | iOS 添加到桌面时显示图标
   webmanifest: # Webmanifest | 应用程序清单文件
   visibilitychange: true # Enable toggle title display when leaving | 开启离开时切换标题显示
@@ -19,7 +19,7 @@ user:
   last_name: 喵喵 # 姓
   email: Koordinaten@163.com # email | 电子邮箱
   domain: miaodecoration.cn # Domain | 站点域名
-  avatar: /img/avatar.jpg # Avatar | 站点头像
+  avatar: /img/shi_tou_xiang.jpg # Avatar | 站点头像
   describe: 网站简介。 # Describe | 网站简介
   rule_text: 暂不接受个人博客以外的友链申请，确保您的网站内容积极向上，文章至少30篇，原创70%以上，部署HTTPS。 # 友链规则
 
