@@ -3,13 +3,13 @@ theme:
   default: auto # 主题默认模式 <[style-light,style-dark,auto]>
 
 favicon:
-  logo: /source/img/shi_tou_xiang.jpg # logo | 顶部 logo
-  icon16: /source/img/bei_jing.jpg # icon 16*16
-  icon32: /source/img/bei_jing.jpg # icon 32*32
+  logo: ../source/img/shi_tou_xiang.jpg # logo | 顶部 logo
+  icon16: ../source/img/bei_jing.jpg # icon 16*16
+  icon32: ../source/img/bei_jing.jpg # icon 32*32
   apple_touch_icon: # Apple touch icon | iOS 添加到桌面时显示图标
   webmanifest: # Webmanifest | 应用程序清单文件
   visibilitychange: true # Enable toggle title display when leaving | 开启离开时切换标题显示
-  hidden: /source/img/shi_tou_xiang.jpg # Displays an icon when not visible | 离开窗口时显示图标
+  hidden: ../source/img/shi_tou_xiang.jpg # Displays an icon when not visible | 离开窗口时显示图标
   show_text: (/≧▽≦/)咦！又好了！ # Displays text when the window is activated | 激活窗口时显示文字
   hide_text: (●—●)喔哟，崩溃啦！ # Leave the window to display text | 离开窗口显示文字
 
@@ -19,13 +19,13 @@ user:
   last_name: 喵喵 # 姓
   email: Koordinaten@163.com # email | 电子邮箱
   domain: miaodecoration.cn # Domain | 站点域名
-  avatar: /source/img/shi_tou_xiang.jpg # Avatar | 站点头像
+  avatar: ../source/img/shi_tou_xiang.jpg # Avatar | 站点头像
   describe: 网站简介。 # Describe | 网站简介
   rule_text: 暂不接受个人博客以外的友链申请，确保您的网站内容积极向上，文章至少30篇，原创70%以上，部署HTTPS。 # 友链规则
 
 banner:
   index:
     type: img
-    bgurl: /source/img/bei_jing.jpg
+    bgurl: ../source/img/bei_jing.jpg
     banner_title: miaomiao，<br>miaomiao。
     banner_text: Hi my new friend!
