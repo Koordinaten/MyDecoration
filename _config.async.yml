@@ -1,0 +1,25 @@
+theme:
+  switch: true # 主题切换按钮
+  default: auto # 主题默认模式 <[style-light,style-dark,auto]>
+
+favicon:
+  logo: /img/favicon.svg # logo | 顶部 logo
+  icon16: /img/favicon.svg # icon 16*16
+  icon32: /img/favicon.svg # icon 32*32
+  apple_touch_icon: # Apple touch icon | iOS 添加到桌面时显示图标
+  webmanifest: # Webmanifest | 应用程序清单文件
+  visibilitychange: true # Enable toggle title display when leaving | 开启离开时切换标题显示
+  hidden: /failure.ico # Displays an icon when not visible | 离开窗口时显示图标
+  show_text: (/≧▽≦/)咦！又好了！ # Displays text when the window is activated | 激活窗口时显示文字
+  hide_text: (●—●)喔哟，崩溃啦！ # Leave the window to display text | 离开窗口显示文字
+
+user:
+  name: 喵喵装修 # Nickname | 昵称
+  first_name: 装修 # 名
+  last_name: 喵喵 # 姓
+  email: Koordinaten@163.com # email | 电子邮箱
+  domain: miaodecoration.cn # Domain | 站点域名
+  avatar: /img/avatar.jpg # Avatar | 站点头像
+  describe: 网站简介。 # Describe | 网站简介
+  rule_text: 暂不接受个人博客以外的友链申请，确保您的网站内容积极向上，文章至少30篇，原创70%以上，部署HTTPS。 # 友链规则
+
