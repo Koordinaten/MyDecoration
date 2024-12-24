@@ -26,6 +26,6 @@ user:
 banner:
   index:
     type: img
-    bgurl: /img/bei_jing.jpg
+    bgurl: /source/img/bei_jing.jpg
     banner_title: miaomiao，<br>miaomiao。
     banner_text: Hi my new friend!
