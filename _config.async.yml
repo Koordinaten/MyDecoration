@@ -4,8 +4,8 @@ theme:
 
 favicon:
   logo: /img/shi_tou_xiang.jpg # logo | 顶部 logo
-  icon16: /img/bei_jing.svg # icon 16*16
-  icon32: /img/bei_jing.svg # icon 32*32
+  icon16: /img/bei_jing.jpg # icon 16*16
+  icon32: /img/bei_jing.jpg # icon 32*32
   apple_touch_icon: # Apple touch icon | iOS 添加到桌面时显示图标
   webmanifest: # Webmanifest | 应用程序清单文件
   visibilitychange: true # Enable toggle title display when leaving | 开启离开时切换标题显示
